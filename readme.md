@@ -4,4 +4,6 @@ Stat Blocks are taken from the PRD for ease of reference. http://paizo.com/pathf
 
 Custom stat blocks are created in PCGen. http://pcgen.org/
 
+Map files created using GIMP. https://www.gimp.org/
+
 Feel free to use anything you see here. If you're one of my players, you're only spoiling things for yourself so go away.
