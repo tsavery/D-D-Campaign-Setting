@@ -4,8 +4,18 @@ Feudal Hierarchy
 
 King Rymond Helmsteel - The Hammer, The Titan
 
-Duke Garnot Northkind - The Just - A white snowflake on a blackened field.
+  -Seat: Helmfirth
+  -Sigil: A steel helm with crossed swords.
+
+Duke Garnot Northkind - The Just
+
+  -Seat: Tergaron
+  -Sigil: A white snowflake on a blackend field.
 
 Duke Hubard Knightbride
 
+  -Seat: Everton
+
 Duke Uwen Toglu - Blackhide
+
+  -Seat: Azmar
