@@ -1,0 +1,48 @@
+Name: The Free State of Taryn
+Government: Syndicated Democracy
+
+Overview:
+
+- Populace consists of 6 different syndicates which elect leaders internally to participate in the politics of the nation.
+- The six leaders elected by the syndicates are known as the Council of Six and are the main ruling body fulfilling the roles of a president or prime minister.
+- The syndicates also elect representatives to represent their interests in the lawmaking process and oversee matters of justice.
+- While the syndicates allow for somewhat good representation of the general populace, not all professions can be properly covered and the power balance of the syndicates is always in flux.
+- Taryn usually tries it's best to stay out of the affairs of other neighboring states though occasionally it will intervene in other wars if there is good reason for it.
+
+The Six Syndicates
+
+Name: The Syndicate of Artisans
+Leader: Umari
+
+Overview: Skilled workers who create valuable commodities are covered by this syndicate. Smiths, Bowyers, Carpenters, Tailors, Tanners and the like.
+They support war with Kald.
+
+Name: The Syndicate of Warriors
+Leader: General Camilla
+
+Overview: Represents the interests of the military, both naval and army. Also represents the interests of mercanaries and sellswords.
+They support war with Kald.
+
+Name: The Syndicate of Priests
+Leader: Cellica
+
+Overview: Represents the interests of various relgious groups, clergy, priests, nuns, monks and clerics/paladins.
+They are against war with Kald.
+
+Name: The Syndicate of Scholars
+Leader: Ferrus
+
+Overview: This syndicate represents the interests of collegiate learners and researchers. It also covers professions like doctors and nurses as well as studiers of the arcane arts like Wizards, Sorcerers and other arcane spellcasters.
+They will support war against Kald if the PCS agree to helm them retrieve an ancient weapon from the ruined Tower of Dagra near Aedo.
+
+Name: The Syndicate of Laborers
+Leader: Barin Rockbreaker
+
+Overview: This syndicate represents the interests of unskilled laborers who make up the backbone of society. Professions like farmhands and miners are covered by this.
+They will support war with Kald if the PCS help him remove a well known crime boss, Skreed, who extorts the poor people in the city of Stratford, from power.
+
+Name: The Syndicate of Merchants
+Leader: Cyran Gremaris
+
+Overview: This syndicate represents the interests of merchants from the common shopkeep to large merchant guilds that trade high volumes of goods. Also professions like tavern/innkeepers and bakers/butchers/farmers
+Cyran is secretly in cohoots with the Kaldiri. If he were to be removed from power the new leader of the syndicate would support war with Kald as long as they're aware of the situation.
